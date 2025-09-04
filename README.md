@@ -2,9 +2,6 @@
 Interactive AquaCrop-based animation visualizing sowing-time adaptation strategies for climate-resilient rice cultivation.
 Participatory Modeling Framework: Climate Resilient Rice Farming
 
-
-# 🌾 Interactive AquaCrop-based Visualization
-
 This project presents an **interactive web-based animation** that integrates AquaCrop simulations with projected climate data to demonstrate how sowing-time adjustments can enhance climate resilience in rice cultivation.
 
 🔗 **Live Demo**: [https://88rvkt.csb.app/](https://88rvkt.csb.app/)  
